@@ -1,6 +1,5 @@
 import sys
-
-game, nums, checker, last_placement, last_letter, stop, p_win, s1, s2, s3, s4 = [], [], [], 0, "", 1, False, 0, 0, 0, 0
+game, nums, checker, last_placement, last_letter, p_win, s1, s2, s3, s4 = [], [], [], 0, "", False, 0, 0, 0, 0
 w_value = 0
 
 for f in range(1, 17):
